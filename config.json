@@ -3,5 +3,8 @@
     "subTitle":"Blog description",
     "homeUrl":"https://webxs.207707.top",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "startSite":"06/25/2024",
+    "onePageListNum":15,
+    "singlePage":["about"],
     "GMEEK_VERSION":"last"
 }
